@@ -3,6 +3,6 @@ share: true
 ---
 foo
 
-[[../../z_Assets/Banners/minor gods.png|minor gods.png]]
+[[../z_Assets/minor_gods.png|minor_gods.png]]
 
 asdf
