@@ -9,4 +9,3 @@ Check out [[./z_Assets/Inspiration.canvas|Inspiration]]
 
 [[Spirits/|Spirits/]]
 
-[[./z_Assets/minor_gods.png|minor_gods.png]]
