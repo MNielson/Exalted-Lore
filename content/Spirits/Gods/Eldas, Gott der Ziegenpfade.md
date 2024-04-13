@@ -4,14 +4,18 @@ aliases: Hüter der verlorenen Wege
 tags: god, spirit, terrestrial
 essence: 
 nature: god
+img:
+  - - Eldas 1.png
 ---
+![[../../z_Assets/Eldas 1.png|right|350]]
 ### Name
 
 - **Eldas, Hüter der verlorenen Wege**
 
-### Erscheinung
+### Erscheinung 
 
-- Eldas erscheint als junger, athletischer Mann mit langen, wirren Haaren und einer erdigen Hautfarbe. Er trägt robuste Kleidung, ideal für das Wandern auf steinigen Pfaden, und führt einen knorrigen Wanderstab.
+
+- Eldas erscheint als junger, athletischer Mann mit langen, wirren Haaren und einer erdigen Hautfarbe. Er trägt robuste Kleidung, ideal für das Wandern auf steinigen Pfaden, und führt einen knorrigen Wanderstab. 
 
 ### Zitat
 
@@ -25,7 +29,7 @@ nature: god
 
 ### Hintergrund
 
-- Eldas ist der spirituelle Wächter der Ziegenpfade und Bewahrer der Erinnerungen derjenigen, die diese Wege beschritten haben. Er wurde einst von den älteren Göttern ernannt, um die Geschichten der Landstriche und ihrer Bewohner zu schützen und wurde mit der Fähigkeit gesegnet, die Erinnerungen in den Winden zu hören, die über seine Pfade wehen.
+Eldas ist der spirituelle Wächter der Ziegenpfade und Bewahrer der Erinnerungen derjenigen, die diese Wege beschritten haben. Er wurde einst von den älteren Göttern ernannt, um die Geschichten der Landstriche und ihrer Bewohner zu schützen und wurde mit der Fähigkeit gesegnet, die Erinnerungen in den Winden zu hören, die über seine Pfade wehen.
 
 ### Schlüsselinformationen
 
