@@ -7,25 +7,25 @@ nature: god
 img:
   - - Eldas 1.png
 ---
-![[../../z_Assets/Eldas 1.png|right|350]]
+
 ### Name
 
-- **Eldas, Hüter der verlorenen Wege**
+ **Eldas, Hüter der verlorenen Wege**
 
 ### Erscheinung 
 
-
-- Eldas erscheint als junger, athletischer Mann mit langen, wirren Haaren und einer erdigen Hautfarbe. Er trägt robuste Kleidung, ideal für das Wandern auf steinigen Pfaden, und führt einen knorrigen Wanderstab. 
+![[../../z_Assets/Eldas 1.png|right|400]]
+Eldas erscheint als junger, athletischer Mann mit langen, wirren Haaren und einer erdigen Hautfarbe. Er trägt robuste Kleidung, ideal für das Wandern auf steinigen Pfaden, und führt einen knorrigen Wanderstab. 
 
 ### Zitat
 
-- "Folge den Pfaden, die ich lege, denn jeder Schritt enthüllt die Geschichten vergessener Zeiten."
+*"Folge den Pfaden, die ich lege, denn jeder Schritt enthüllt die Geschichten vergessener Zeiten."*
 
 ### Rollenspiel
 
-- **Mimik und Gesten**: Tendiert dazu, langsam mit seinem Wanderstab im Takt zu tippen, während er spricht.
-- **Persönlichkeitseigenschaften**: Nachdenklich, weise, manchmal geheimnisvoll, immer bedacht auf die Sicherheit seiner Wege und seiner Anhänger.
-- **Allgemeine Haltung**: Freundlich gegenüber denjenigen, die die Natur respektieren, reserviert gegenüber Fremden, die seine Pfade missbrauchen wollen.
+**Mimik und Gesten**: Tendiert dazu, langsam mit seinem Wanderstab im Takt zu tippen, während er spricht.
+**Persönlichkeitseigenschaften**: Nachdenklich, weise, manchmal geheimnisvoll, immer bedacht auf die Sicherheit seiner Wege und seiner Anhänger.
+**Allgemeine Haltung**: Freundlich gegenüber denjenigen, die die Natur respektieren, reserviert gegenüber Fremden, die seine Pfade missbrauchen wollen.
 
 ### Hintergrund
 
@@ -33,6 +33,6 @@ Eldas ist der spirituelle Wächter der Ziegenpfade und Bewahrer der Erinnerungen
 
 ### Schlüsselinformationen
 
-- **Schützt die Pfade und die darauf reisenden Seelen**: Sicherheit für Reisende und Tiere, die die Pfade nutzen.
-- **Wissenshüter**: Kennt alte Geschichten und Geheimnisse, die er bereit ist, mit würdigen Wanderern zu teilen.
-- **Spirituelle Führung**: Kann Ratschläge oder Weisheiten bieten, die den Verlauf eines Abenteuers ändern können.
+**Schützt die Pfade und die darauf reisenden Seelen**: Sicherheit für Reisende und Tiere, die die Pfade nutzen.
+**Wissenshüter**: Kennt alte Geschichten und Geheimnisse, die er bereit ist, mit würdigen Wanderern zu teilen.
+**Spirituelle Führung**: Kann Ratschläge oder Weisheiten bieten, die den Verlauf eines Abenteuers ändern können.
