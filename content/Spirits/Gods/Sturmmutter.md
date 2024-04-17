@@ -26,7 +26,7 @@ Kurze Beschreibung des Aussehens und wichtiger physischer Merkmale.
 
 ### Hintergrund
 
-Erzählung zu wichtigen Hintergrundinformationen und anekdotischen Geschichten, die für den Charakter relevant sind.
+Sturmmütter sind rachsüchtige Götter der Meere von Creation. 
 
 ### Schlüsselinformationen
 
