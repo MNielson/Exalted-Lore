@@ -16,7 +16,9 @@ files:
 Kurze Beschreibung des Aussehens und wichtiger physischer Merkmale.
 
 ### Zitat
-![[../../z_Assets/zhan-junyong-adwsd24d.jpg|zhan-junyong-adwsd24d.jpg]]
+
+![[../../z_Assets/DummyImg.jpg|DummyImg.jpg]]
+
 
 *Charakteristisches Zitat, das die Stimme des Charakters einfängt.*
 
