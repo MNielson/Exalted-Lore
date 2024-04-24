@@ -4,6 +4,7 @@ tags: spirit
 share: true
 essence: 
 nature: god
+files: 
 ---
 
 ### Name
@@ -15,6 +16,7 @@ nature: god
 Kurze Beschreibung des Aussehens und wichtiger physischer Merkmale.
 
 ### Zitat
+![[../../z_Assets/zhan-junyong-adwsd24d.jpg|zhan-junyong-adwsd24d.jpg]]
 
 *Charakteristisches Zitat, das die Stimme des Charakters einfängt.*
 
