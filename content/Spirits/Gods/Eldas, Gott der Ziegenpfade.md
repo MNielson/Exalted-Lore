@@ -17,6 +17,8 @@ img:
 ![[../../z_Assets/Eldas 1.png|right|400]]
 Eldas erscheint als junger, athletischer Mann mit langen, wirren Haaren und einer erdigen Hautfarbe. Er trägt robuste Kleidung, ideal für das Wandern auf steinigen Pfaden, und führt einen knorrigen Wanderstab. 
 
+
+
 ### Zitat
 
 *"Folge den Pfaden, die ich lege, denn jeder Schritt enthüllt die Geschichten vergessener Zeiten."*
