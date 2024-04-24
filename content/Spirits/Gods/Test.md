@@ -4,6 +4,7 @@ tags: spirit
 share: true
 essence: 
 nature: god
+files: 
 ---
 
 ### Name
@@ -15,6 +16,7 @@ nature: god
 Kurze Beschreibung des Aussehens und wichtiger physischer Merkmale.
 
 ### Zitat
+![[../../z_Assets/DummyImg.jpg|DummyImg.jpg]]
 
 *Charakteristisches Zitat, das die Stimme des Charakters einfängt.*
 
