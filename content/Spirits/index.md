@@ -1,5 +1,6 @@
 ---
 share: true
+title: Spirits
 ---
 
 Spirit text goes here, it is pretty cool
