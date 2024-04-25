@@ -1,7 +1,9 @@
 ---
 title: Eldas
 share: true
-aliases: Hüter der verlorenen Wege, Eldas, Gott der Ziegenpfade
+aliases:
+  - Eldas, Gott der Ziegenpfade
+  - Hüter der verlorenen Wege
 tags: god, spirit, terrestrial
 essence: 
 nature: god
