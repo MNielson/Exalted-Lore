@@ -1,4 +1,5 @@
 ---
+title: Eldas
 share: true
 aliases: Hüter der verlorenen Wege
 tags: god, spirit, terrestrial
