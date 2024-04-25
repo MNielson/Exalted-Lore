@@ -14,11 +14,22 @@ img:
  **Eldas, Hüter der verlorenen Wege**
 
 ### Erscheinung 
+> [!infobox]
+> # Name
+> ![[../../z_Assets/Eldas.png|cover]]
+> ###### Stats
+> | Type | Stat |
+> | ---- | ---- |
+> | Test | Testing |
+> | Test | Testing |
+> 
+> ##### Stats 2
+> | Type | Stat |
+> | ---- | ---- |
+> | Test | Testing |
+> | Test | Testing |
 
-![[../../z_Assets/Eldas.png|right hmed]]
 Eldas erscheint als junger, athletischer Mann mit langen, wirren Haaren und einer erdigen Hautfarbe. Er trägt robuste Kleidung, ideal für das Wandern auf steinigen Pfaden, und führt einen knorrigen Wanderstab. 
-
-[[../../z_Assets/Eldas.png| ◙]]
 
 ### Zitat
 
