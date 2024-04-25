@@ -94,4 +94,10 @@
    padding-right: 0px;
    vertical-align: top;
   }
-
+	/*Fit image within bounds WITHOUT stretching*/
+	img[alt*=cover],
+	img:is([alt*=cover], [alt*=cvr]),
+	.image-embed:is([src*="#cover"], [src*="#cvr"]),
+	span.image-embed:is([src*="#cover"], [src*="#cvr"]) img {
+	  object-fit: cover;
+	}
