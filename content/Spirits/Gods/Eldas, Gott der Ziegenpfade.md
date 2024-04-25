@@ -5,7 +5,7 @@ tags: god, spirit, terrestrial
 essence: 
 nature: god
 img:
-  - - Eldas 1.png
+  - - Eldas.png
 ---
 
 ### Name
@@ -14,10 +14,10 @@ img:
 
 ### Erscheinung 
 
-![[../../z_Assets/Eldas 1.png|right|400]]
+![[../../z_Assets/Eldas.png|right hmed]]
 Eldas erscheint als junger, athletischer Mann mit langen, wirren Haaren und einer erdigen Hautfarbe. Er trägt robuste Kleidung, ideal für das Wandern auf steinigen Pfaden, und führt einen knorrigen Wanderstab. 
 
-
+[[../../z_Assets/Eldas.png| ◙]]
 
 ### Zitat
 
