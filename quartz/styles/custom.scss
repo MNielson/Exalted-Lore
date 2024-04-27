@@ -1,5 +1,6 @@
 @use "./base.scss";
-@use "./custom2.scss";
+@use "./custom_imgAdj.scss";
+@use "./custom_callouts.scss";
 
 /* infobox callout */
 .callout[data-callout="infobox"] {
