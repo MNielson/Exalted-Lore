@@ -1,7 +1,8 @@
 ---
-aliases: 
+aliases: []
 share: true
-tags: spirit
+tags:
+  - spirit
 essence: 
 nature: god
 ---
@@ -12,14 +13,14 @@ nature: god
 
 ### Erscheinung
 
-Kurze Beschreibung des Aussehens und wichtiger physischer Merkmale.
+Kurze Beschreibung des Aussehens und wichtiger physischer Merkmale. 
 
 ### Zitat
 
 *Charakteristisches Zitat, das die Stimme des Charakters einfängt.*
 
 ### Rollenspiel
-
+![[../../z_Assets/Eldas.png|right|400]]
 **Mimik und Gesten**: Beschreibung einer einfachen, physischen Aktion oder Geste, die beim Rollenspiel verwendet werden kann.
 **Persönlichkeitseigenschaften**: Kurze Auflistung markanter Eigenschaften.
 **Allgemeine Haltung**: Beschreibung der generellen Einstellung gegenüber anderen.
